@@ -3,7 +3,7 @@
 A lightweight expense tracker written in **C** that generates a clean,
 responsive **HTML/CSS** dashboard.
 
-![Dashboard](screenshot.png)
+![Dashboard](Screenshot.png)
 
 ## Features
 - Add, list and delete expenses from a terminal menu
